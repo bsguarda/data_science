@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="bannerDS1.png" >
+  <img src="Vector.jpg" >
 </p>
 
 # Bruno Guarda
