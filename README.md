@@ -27,6 +27,7 @@
 
 Análise dos Dados do Airbnb - Porto em Portugual:  https://bit.ly/3tlE8DP
 
+Análise do Covid-19 2022: https://bityli.com/wALlWi
 
 
 
