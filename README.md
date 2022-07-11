@@ -20,7 +20,7 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/bruno-guarda-181318101/)
-
+* [Medium](https://medium.com/@bsguarda)
 
 
 ## Projetos:
